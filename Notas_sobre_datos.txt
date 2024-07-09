@@ -1,0 +1,14 @@
+Los datos eran demasiado pesados entonces no los pude subir al Aula virtual. Entonces los subi a unos enlaces temporales,
+para ejecutar el codigo y no tener que cambiar rutas relativas lo suyo sería descargar los datos de los siguientes links y alojarlos en la carpeta 'datos'.
+
+De todos modos, los datos son: Los que manipulamos en clase en el primer ejercicio. Y para el segundo, los que se descargan en el link
+asociado en el notebook.
+
+===================
+Datos Ejercicio 1
+===================
+https://we.tl/t-zUVJvz6rBK
+===================
+Datos Ejercicio 2
+===================
+https://we.tl/t-YcUoAoq73Y
